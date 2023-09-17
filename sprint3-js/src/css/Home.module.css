@@ -1,0 +1,12 @@
+.img1{
+    width: 400px;
+}
+.objetivos {
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
